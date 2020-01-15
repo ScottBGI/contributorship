@@ -101,12 +101,13 @@ authors:
     roles:
       - CREDIT_00000013 writing original draft role  
   -
+    github: ScottBGI
     name: Scott Edmunds
     initials: SE
     orcid: 0000-0001-6444-1436
     email: scott@gigasciencejournal.com
     affiliations:
-      - GigaScience
+      - GigaScience, BGI Hong Kong
     roles:
       - CREDIT_00000013 writing original draft role
   - 
